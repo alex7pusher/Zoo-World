@@ -6,6 +6,8 @@
 
 Основной код лежит в `Assets/_Project/Scripts/Runtime`.
 
+`Configs` содержит ScriptableObject-конфиги животных, спавна, движения, мира, пула и UI-эффектов.
+
 `Gameplay/Animals` отвечает за создание животных, пул объектов, контроллер животного и view-компонент на prefab.
 
 `Gameplay/Movement` содержит разные типы движения. Движение задается через `AnimalMovementConfig`, поэтому новый тип движения можно добавить отдельным config и классом движения.
@@ -16,11 +18,17 @@
 
 `Gameplay/Statistics` считает статистику по погибшим животным. Счетчики хранятся по `AnimalChainType`, поэтому UI не завязан на фиксированные поля вроде "жертвы" и "хищники".
 
-`Gameplay/UI` содержит UI статистики и эффект `TastyLabel`.
+`UI` содержит UI статистики, сервис перевода world position в screen position и эффект `TastyLabel`.
 
-`Infrastructure` содержит bootstrap, installers, configs и общую шину событий.
+`Infrastructure/Bootstrap` содержит bootstrap stages, которые подготавливают сервисы и запускают симуляцию.
 
-Таже в `Assets/_Project/Scripts/Modules` лежат мои кастомные модули, кочующие из проекта в проект.
+`Infrastructure/Installers` содержит Zenject installers.
+
+`Infrastructure/Events` содержит общую шину событий и события проекта.
+
+`Utils` содержит небольшие общие утилиты и константы проекта.
+
+Также в `Assets/_Project/Modules` лежат мои кастомные модули, кочующие из проекта в проект.
 
 ## Что стоит отметить
 
