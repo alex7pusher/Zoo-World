@@ -1,7 +1,7 @@
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI
 {
     [UsedImplicitly]
     public sealed class MainCameraScreenPositionService : IScreenPositionService

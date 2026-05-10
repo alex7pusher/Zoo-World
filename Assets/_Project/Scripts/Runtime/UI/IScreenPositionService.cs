@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI
 {
     public interface IScreenPositionService
     {

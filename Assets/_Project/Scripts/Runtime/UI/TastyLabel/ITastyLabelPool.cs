@@ -1,6 +1,6 @@
 using System;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel
 {
     public interface ITastyLabelPool : IDisposable
     {

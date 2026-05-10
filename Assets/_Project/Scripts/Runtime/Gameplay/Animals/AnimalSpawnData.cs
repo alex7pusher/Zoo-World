@@ -1,4 +1,4 @@
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 using UnityEngine;
 
 namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Animals

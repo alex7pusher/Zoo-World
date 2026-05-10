@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using JetBrains.Annotations;
 using Modules.Configs;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils;
+using Modules.ZooWorld._Project.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Configs
 {
     [CreateAssetMenu(fileName = "Animal Catalog Config", menuName = ProjectConstants.ProjectName + "/Animal Catalog Config")]
     public sealed class AnimalCatalogConfig : Config

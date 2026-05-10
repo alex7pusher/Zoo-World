@@ -3,7 +3,7 @@ using Modules.UISystem.Runtime.Scripts.Base;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Animals;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.ZooStats
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI.ZooStats
 {
     public sealed class ZooStatsView : BaseUIView
     {

@@ -1,6 +1,6 @@
 using System;
 using JetBrains.Annotations;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 
 namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Movement
 {

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
 using JetBrains.Annotations;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Animals;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
 using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Events;
 
 namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.FoodChain

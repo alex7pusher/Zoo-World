@@ -1,9 +1,9 @@
 using System.Threading;
 using Cysharp.Threading.Tasks;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.FoodChain;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Movement;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.World;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
 using UniRx;
 using UnityEngine;
 

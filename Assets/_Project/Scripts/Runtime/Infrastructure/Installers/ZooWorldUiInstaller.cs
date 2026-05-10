@@ -1,6 +1,6 @@
 using JetBrains.Annotations;
-using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI;
-using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel;
+using Modules.ZooWorld._Project.Scripts.Runtime.UI;
+using Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel;
 using Zenject;
 
 namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Installers

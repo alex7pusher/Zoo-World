@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using JetBrains.Annotations;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 using UnityEngine;
 using UnityEngine.Pool;
 using Object = UnityEngine.Object;

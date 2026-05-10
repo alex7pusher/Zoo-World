@@ -1,11 +1,11 @@
 using System;
 using JetBrains.Annotations;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs;
+using Modules.ZooWorld._Project.Scripts.Runtime.Configs;
 using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Events;
 using UniRx;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel
 {
     [UsedImplicitly]
     public sealed class TastyLabelService : ITastyLabelService, IDisposable

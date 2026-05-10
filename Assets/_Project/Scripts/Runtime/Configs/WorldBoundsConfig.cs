@@ -1,8 +1,8 @@
 using Modules.Configs;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils;
+using Modules.ZooWorld._Project.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Configs
 {
     [CreateAssetMenu(fileName = "World Bounds Config", menuName = ProjectConstants.ProjectName + "/World Bounds Config")]
     public sealed class WorldBoundsConfig : Config

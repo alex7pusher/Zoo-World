@@ -3,7 +3,7 @@ using DG.Tweening;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel
+namespace Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel
 {
     public sealed class TastyLabelItem : MonoBehaviour
     {

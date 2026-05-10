@@ -1,8 +1,8 @@
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Movement;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils;
+using Modules.ZooWorld._Project.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Configs
 {
     [CreateAssetMenu(fileName = "Jump Movement Config", menuName = ProjectConstants.ProjectName + "/Movement/Jump Movement Config")]
     public sealed class JumpMovementConfig : AnimalMovementConfig

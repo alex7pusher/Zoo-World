@@ -1,4 +1,4 @@
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Utils
 {
 	public static class ProjectConstants
 	{

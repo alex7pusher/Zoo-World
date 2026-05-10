@@ -4,8 +4,8 @@ using Cysharp.Threading.Tasks;
 using JetBrains.Annotations;
 using Modules.UISystem.Runtime.Scripts;
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Spawning;
-using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel;
-using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.ZooStats;
+using Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel;
+using Modules.ZooWorld._Project.Scripts.Runtime.UI.ZooStats;
 
 namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure
 {

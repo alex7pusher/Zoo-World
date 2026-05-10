@@ -1,9 +1,9 @@
 using Modules.Configs;
-using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.UI.TastyLabel;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils;
+using Modules.ZooWorld._Project.Scripts.Runtime.UI.TastyLabel;
+using Modules.ZooWorld._Project.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Configs
 {
     [CreateAssetMenu(fileName = "Tasty Label Config", menuName = ProjectConstants.ProjectName + "/Tasty Label Config")]
     public sealed class TastyLabelConfig : Config

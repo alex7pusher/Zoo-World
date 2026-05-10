@@ -1,8 +1,8 @@
 using Modules.ZooWorld._Project.Scripts.Runtime.Gameplay.Movement;
-using Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Utils;
+using Modules.ZooWorld._Project.Scripts.Runtime.Utils;
 using UnityEngine;
 
-namespace Modules.ZooWorld._Project.Scripts.Runtime.Infrastructure.Configs
+namespace Modules.ZooWorld._Project.Scripts.Runtime.Configs
 {
     [CreateAssetMenu(fileName = "Linear Movement Config", menuName = ProjectConstants.ProjectName + "/Movement/Linear Movement Config")]
     public sealed class LinearMovementConfig : AnimalMovementConfig
