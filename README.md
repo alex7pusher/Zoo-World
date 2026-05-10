@@ -1,6 +1,8 @@
-# Zoo World Test task. Рекомендую смотреть код с точки входа ZooWorldEntryPoint.
+# Zoo World Test task. 
 
 ## Архитектура и структура
+
+Рекомендую смотреть код с точки входа ZooWorldEntryPoint.
 
 Основной код лежит в `Assets/_Project/Scripts/Runtime`.
 
