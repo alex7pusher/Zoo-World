@@ -1,0 +1,22 @@
+{
+    "name": "Modules.ZooWorld",
+    "rootNamespace": "Modules.ZooWorld",
+    "references": [
+        "Modules.Bootstrap",
+        "Modules.Configs",
+        "Modules.UISystem",
+        "UniTask",
+        "UniRx",
+        "Zenject",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

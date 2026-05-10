@@ -1,0 +1,14 @@
+{
+  "name": "com.modules.configs",
+  "displayName": "Configs",
+  "version": "1.0.0",
+  "description": "Configs",
+  "hideInEditor": false,
+  "keywords": [
+    "config"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": ""
+  }
+}

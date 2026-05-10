@@ -1,0 +1,19 @@
+{
+    "name": "Modules.Bootstrap.Zenject",
+    "rootNamespace": "Modules.Bootstrap.Zenject",
+    "references": [
+        "Modules.Bootstrap",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ZENJECT"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

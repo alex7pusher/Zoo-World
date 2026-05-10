@@ -1,0 +1,14 @@
+{
+  "name": "com.modules.bootstrap",
+  "displayName": "Bootstrap",
+  "version": "1.1.0",
+  "description": "Bootstrap",
+  "hideInEditor": false,
+  "keywords": [],
+  "dependencies": {
+    "com.modules.third-party.unitask": "2.5.10"
+  },
+  "author": {
+    "name": ""
+  }
+}
